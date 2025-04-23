@@ -82,6 +82,6 @@ button.cancel {
   font-size: 24px;
 }
 
-.modal-content * {
+.modal-content > * {
   margin-bottom: 8px;
 }
