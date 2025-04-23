@@ -19,11 +19,13 @@ img {
 }
 
 .text {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .card-case {
   display: flex;
+  justify-content: center;
   gap: 52px;
 } 
 
