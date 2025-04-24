@@ -32,12 +32,14 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   background-color: #eee;
+  padding: 16px;
 }
 
 a {
@@ -49,7 +51,8 @@ ul {
   display: flex;
   gap: 16px;
   list-style-type: none;
-  padding: 0px 16px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .content {
